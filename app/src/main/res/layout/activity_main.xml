@@ -129,11 +129,11 @@
             <TextView
                 style="@style/NumberButton"
                 android:id="@+id/txtDel"
-                android:text="Del"/>
+                android:text =" Del "/>
             <TextView
                 style="@style/EqualButton"
                 android:id="@+id/txtEqual"
-                android:text="="/>
+                android:text=" = "/>
 
 
         </LinearLayout>
